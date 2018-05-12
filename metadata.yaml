@@ -1,0 +1,35 @@
+_repo: Billy-Whiskers-Travels_43872
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Williams, Carll B.
+    gutenberg_agent_id: '42447'
+    url: http://www.gutenberg.org/2009/agents/42447
+covers:
+- cover_type: archival
+  image_path: 43872-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Montgomery, Frances Trego
+    aliases:
+    - Wheeler, F. G.
+    - Montgomery, F. T. (Frances Trego)
+    birthdate: 1858
+    deathdate: 1925
+    gutenberg_agent_id: '8392'
+    url: http://www.gutenberg.org/2009/agents/8392
+description: ''
+gutenberg_issued: '2013-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43872'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Goats -- Juvenile fiction'
+title: Billy Whiskers' Travels
+url: http://www.gutenberg.org/ebooks/43872
